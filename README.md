@@ -60,8 +60,7 @@ Each model was trained on historical temperature data to predict future temperat
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/temperature-forecasting.git
-   cd temperature-forecasting
+   git clone https://github.com/Shrey12202/Global-Weather-Repository
    ```
 2. Install the required libraries:
    ```bash
